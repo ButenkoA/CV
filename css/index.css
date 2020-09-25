@@ -1,0 +1,17 @@
+body {
+    background-image: url(../img/lviv-new.jpg);
+    background-color: #370584;
+    margin: auto;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: fixed;
+    align-items: center;
+    justify-content: center;
+}
+
+    header {
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        min-height: 100vh;
+    }
